@@ -31,7 +31,7 @@ tion.
 
 
  <p align="center">
-    Human-Object Detection
+    Thank you
   </p>
 
 </div>
